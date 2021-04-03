@@ -5,6 +5,5 @@ Include/
 Scripts/
 share/
 main.ipynb
-month_*.ipynb
 main.py
 pyvenv.cfg

@@ -1,2 +1,2 @@
 # SPQR
-some random sage jupyter notebooks (and more!)
+some random sage jupyter notebooks
